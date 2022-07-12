@@ -1,1 +1,1 @@
-# course-project-NURE
+# course-shop-of-computer-components
